@@ -21,3 +21,7 @@
 
 
 ### 1-3. 스택 
+> - ![image](https://github.com/user-attachments/assets/53abd2c5-e7e3-4d01-ae4d-92c4bfe1d361)
+> - LIFO
+> - 여담으로 자료구조의 의의는 데이터를 어떤식으로 저장/관리
+> - 즉, 어떤 규칙에 의거하여 데이터를 저장/관리하는지 파악하는 것이 중요 
