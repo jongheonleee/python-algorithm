@@ -34,4 +34,12 @@
 
 ### 1-4. 큐
 > - ![image](https://github.com/user-attachments/assets/fe3a102e-88a9-4be3-bc33-5ce5a5f606b2)
-> - FIFO 
+> - FIFO
+
+
+### 2. 기초 알고리즘 
+
+### 2-1. 이분탐색 
+> - ![image](https://github.com/user-attachments/assets/1b19f940-6fe5-4c05-a15d-2d5d47f97111)
+> - 탐색범위를 절반씩 줄여나가는 효율적인 탐색 방법 -> O(logN)
+ 
