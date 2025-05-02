@@ -42,4 +42,9 @@
 ### 2-1. 이분탐색 
 > - ![image](https://github.com/user-attachments/assets/1b19f940-6fe5-4c05-a15d-2d5d47f97111)
 > - 탐색범위를 절반씩 줄여나가는 효율적인 탐색 방법 -> O(logN)
- 
+
+### 2-2. 정렬
+> - ![image](https://github.com/user-attachments/assets/3312b33b-d160-4c6e-9355-c283af153ffa)
+> - ![image](https://github.com/user-attachments/assets/518f16ab-2b10-4c82-8660-e2a7045c2de6)
+> - 팀소트는 머지정렬 & 삽입정렬로 결합되어 있음, O(N * logN)
+
